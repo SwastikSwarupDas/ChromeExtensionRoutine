@@ -1,0 +1,54 @@
+table caption {
+    font-family: cursive;
+    font-size: 2rem;
+    font-weight: 800;
+    margin-bottom: 10px;
+  }
+  
+  .Time {
+    background-color: #1b1b1b;
+    color: white;
+  }
+  
+  .MONDAY {
+    background-color: #808080;
+  }
+  
+  .TUESDAY {
+    background-color: #808080;
+  }
+  
+  .WEDNESDAY {
+    background-color: #808080;
+  }
+  
+  .THURSDAY {
+    background-color: #808080;
+  }
+  
+  .FRIDAY {
+    background-color: #808080;
+  }
+  
+  td,
+  th {
+    margin-right: 30px;
+    font-family: "Century Gothic", sans-serif;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  a {
+    color: black;
+    font-weight: 600;
+  }
+  
+  td:hover {
+    background-color: rgb(242, 238, 239);
+  }
+  
+  td,
+  th {
+    border-radius: 10px; /* Add border-radius for rounded corners */
+  }
+  
